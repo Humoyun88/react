@@ -1,6 +1,6 @@
 import React from 'react'
 import facebook from '../assets/images/facebook.png'
-import instagram from '../assets/images/instagram (1).png'
+import instagram from '../assets/images/instagram.png'
 import telegram from '../assets/images/telegram.png'
 import email from '../assets/images/email.png'
 import whatsapp from '../assets/images/whatsapp.png'
