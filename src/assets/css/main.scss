@@ -1,3 +1,3 @@
-@import './common/fonts.scss',
-        './common/root.scss',
-        './common/style.scss';
+@use './common/fonts.scss';
+@use './common/root.scss';
+@use './common/style.scss';
